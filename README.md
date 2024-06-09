@@ -25,8 +25,10 @@ Este repositorio está diseñado para proporcionar a los estudiantes una amplia 
 
 **Fundamentos de Sistemas Transaccionales en Ingeniería de Sistemas** es un curso que proporciona una introducción detallada a los conceptos esenciales relacionados con los sistemas transaccionales. Desde los fundamentos teóricos hasta la aplicación práctica, este curso te prepara para comprender y diseñar sistemas que gestionan transacciones de manera eficiente y segura.
 
-## Contacto
-
-Si tienes alguna pregunta o necesitas ayuda adicional, no dudes en ponerte en contacto con el equipo de monitores o el profesor de la materia. Estamos aquí para ayudarte a aprovechar al máximo tu experiencia de aprendizaje.
-
-¡Esperamos que encuentres estos recursos útiles y que te ayuden a alcanzar tus objetivos académicos en la materia!
+## Usuario Oracle para caso Musik
+En SQL developer trata de hacer una conexión a la BD de parranderos por favor con las siguientes credenciales:
+Usuario: ISIS2304M08202410 
+Contraseña: adESAqQLeKPh
+Host: fn4.oracle.virtual.uniandes.edu.co
+Puerto: 1521
+Nombre del servicio: PROD
